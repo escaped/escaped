@@ -8,5 +8,3 @@ you stumbled onto my profile and, I don't wanna be rude, so I guess I introduce 
 
 I am Alex, an experienced software engineer, who gained various skills over the last decades.
 I love to code, solve difficult bugs and support others by sharing my knowledge or helping them as much as I can.
-That's why I provide **Open Office Hours** to anyone interested.
-Feel free to [book a time slot](https://go.oncehub.com/escaped) (free-of-charge).
